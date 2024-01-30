@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Dante Franzoi 
+-Profissão: People analytics
+-Cidade: Recife 
+-O que faz nas horas vagas: Tenho o hábito de pedalar alguns km, dependendo da janela de tempo livre aumento os kms. 
+-Feedback sobre o curso Qualidade de Software: Bastante assertivo e didático.
+-Feedback sobre a plataforma de estudo da EBAC: Bastante intuitiva e com um suporte fantástico.
 
 Obrigado!!!
-
-
